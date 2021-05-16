@@ -1,0 +1,26 @@
+/* convert to red theme */
+
+:root {
+    --mainColor:#ff2929;
+    --lightGreyColor: #db0404;
+    --darkGreyColor: #331010;
+    --charcoalGreyColor: #690000;
+
+    --darkMode:#312c2c;
+    --blueMode:#2b85ce;
+    --redMode: #db0404;
+  
+    --whiteColor: #fff;
+    --blackColor: rgb(0, 0, 0);
+  
+    --fadeColor: rgba(158, 242, 248, 0.281);
+    --blueColor: #690000;
+    
+    --redColor: #fff;
+  }
+
+  .change{
+       --redColor: #331010;
+       --redColor: #690000;
+       --redColor: #fa9494;
+  }

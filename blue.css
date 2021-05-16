@@ -1,0 +1,21 @@
+/* convert to blue theme */
+
+:root {
+    --mainColor:#93cdfc;
+    --lightGreyColor: #52aef8;
+    --darkGreyColor: #052b4b;
+    --charcoalGreyColor: #1d4769;
+    --darkMode:#312c2c;
+  
+    --whiteColor: #fff;
+    --blackColor: rgb(0, 0, 0);
+  
+    --fadeColor: rgba(158, 242, 248, 0.281);
+    --blueColor: #2b85ce;
+    --redColor: #db0404;
+  }
+
+  .change{
+    --blueColor: #87c8fd;
+    --blueColor: #052b4b;
+  }
